@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Let s Drakem\bin\Debug\Let s Drakem.exe.config
+C:\Users\user\source\repos\Let s Drakem\bin\Debug\Let s Drakem.exe
+C:\Users\user\source\repos\Let s Drakem\bin\Debug\Let s Drakem.pdb
+C:\Users\user\source\repos\Let s Drakem\bin\Debug\Let s Drakem.xml
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let s Drakem.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let_s_Drakem.Form1.resources
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let_s_Drakem.Form2.resources
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let_s_Drakem.Resources.resources
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let s Drakem.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let s Drakem.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let s Drakem.exe
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let s Drakem.xml
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let s Drakem.pdb
+C:\Users\user\source\repos\Let s Drakem\obj\Debug\Let_s_Drakem.Form3.resources
